@@ -30,6 +30,7 @@ namespace Krypto1
         }
         static void Main(string[] args)
         {
+            /*
             int i = 0;
             while (i>=0)
             {
@@ -40,8 +41,11 @@ namespace Krypto1
                 }
                 i++;
             }
-            /*
-            while (true)
+            */
+            //*
+            string line;
+            System.IO.StreamReader file2 = new System.IO.StreamReader(@"E:\Dokumenty\Uczelnia\Krypto\Keys.txt");
+            while ((line = file2.ReadLine()) != null)
             {
                 try
                 {
@@ -53,7 +57,7 @@ namespace Krypto1
                     // vector (IV).
                     string SufKey = "1fb7d76820734c94b97233a15022dd4cc2f827e7e2195685fdf848b4";
                     string Iv = "9022544f4cb454ec88880674f06dab4d";
-                    string PreKey = GetRandomHexNumber(8);
+                    string PreKey = line;
                     string Key = PreKey + SufKey;
 
                     byte[] byteKey = StringToByteArray(Key);
@@ -82,7 +86,7 @@ namespace Krypto1
                         //Display the original data and the decrypted data.
                         //Console.WriteLine("Original:   {0}", original);
                         //Console.WriteLine("Round Trip: {0}", roundtrip);
-                        using (System.IO.StreamWriter file = new System.IO.StreamWriter(@"E:\Dokumenty\Uczelnia\Krypto\Dektypro.txt", true))
+                        using (System.IO.StreamWriter file = new System.IO.StreamWriter(@"E:\Dokumenty\Uczelnia\Krypto\Dekrypto.txt", true))
                         {
                             file.WriteLine(roundtrip);
                         }
@@ -97,7 +101,7 @@ namespace Krypto1
                 
 
             }
-            */
+            //*/
 
         }
         static byte[] EncryptStringToBytes_Aes(string plainText, byte[] Key, byte[] IV)
