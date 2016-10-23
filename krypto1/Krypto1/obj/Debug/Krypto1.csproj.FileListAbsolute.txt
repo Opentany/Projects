@@ -1,0 +1,6 @@
+e:\dokumenty\visual studio 2015\Projects\Krypto1\Krypto1\bin\Debug\Krypto1.exe.config
+e:\dokumenty\visual studio 2015\Projects\Krypto1\Krypto1\bin\Debug\Krypto1.exe
+e:\dokumenty\visual studio 2015\Projects\Krypto1\Krypto1\bin\Debug\Krypto1.pdb
+e:\dokumenty\visual studio 2015\Projects\Krypto1\Krypto1\obj\Debug\Krypto1.csprojResolveAssemblyReference.cache
+e:\dokumenty\visual studio 2015\Projects\Krypto1\Krypto1\obj\Debug\Krypto1.exe
+e:\dokumenty\visual studio 2015\Projects\Krypto1\Krypto1\obj\Debug\Krypto1.pdb

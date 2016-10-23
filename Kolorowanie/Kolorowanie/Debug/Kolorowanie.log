@@ -1,0 +1,6 @@
+﻿  stdafx.cpp
+  Kolorowanie.cpp
+e:\dokumenty\visual studio 2015\projects\kolorowanie\kolorowanie\kolorowanie.cpp(65): warning C4018: '<': signed/unsigned mismatch
+e:\dokumenty\visual studio 2015\projects\kolorowanie\kolorowanie\kolorowanie.cpp(77): warning C4018: '<': signed/unsigned mismatch
+e:\dokumenty\visual studio 2015\projects\kolorowanie\kolorowanie\kolorowanie.cpp(242): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Kolorowanie.vcxproj -> e:\dokumenty\visual studio 2015\Projects\Kolorowanie\Debug\Kolorowanie.exe
