@@ -1,0 +1,6 @@
+e:\dokumenty\visual studio 2015\Projects\Automat\Automat\bin\Debug\Automat.exe.config
+e:\dokumenty\visual studio 2015\Projects\Automat\Automat\bin\Debug\Automat.exe
+e:\dokumenty\visual studio 2015\Projects\Automat\Automat\bin\Debug\Automat.pdb
+e:\dokumenty\visual studio 2015\Projects\Automat\Automat\obj\Debug\Automat.csprojResolveAssemblyReference.cache
+e:\dokumenty\visual studio 2015\Projects\Automat\Automat\obj\Debug\Automat.exe
+e:\dokumenty\visual studio 2015\Projects\Automat\Automat\obj\Debug\Automat.pdb
