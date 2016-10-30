@@ -1,0 +1,6 @@
+E:\Dokumenty\Visual Studio 2015\Projects\krypto1\Krypto1\bin\Release\Krypto1.exe.config
+E:\Dokumenty\Visual Studio 2015\Projects\krypto1\Krypto1\bin\Release\Krypto1.exe
+E:\Dokumenty\Visual Studio 2015\Projects\krypto1\Krypto1\bin\Release\Krypto1.pdb
+E:\Dokumenty\Visual Studio 2015\Projects\krypto1\Krypto1\obj\Release\Krypto1.exe
+E:\Dokumenty\Visual Studio 2015\Projects\krypto1\Krypto1\obj\Release\Krypto1.pdb
+e:\dokumenty\visual studio 2015\Projects\krypto1\Krypto1\obj\Release\Krypto1.csprojResolveAssemblyReference.cache
